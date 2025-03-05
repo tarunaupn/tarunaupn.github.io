@@ -21,7 +21,7 @@
     </header>
     <section id="beranda">
         <h2>Selamat Datang di Portofolio Saya</h2>
-        <p>SEMANGAT.</p>
+        <p>SEMANGAT</p>
     </section>
     <section id="tentang">
         <h2>Tentang Saya</h2>
